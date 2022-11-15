@@ -1,2 +1,2 @@
-# distinguishedarchitect.github.io
+# Distinguished Architect
 Homepage for Distinguished Architect
